@@ -26,7 +26,5 @@ int main(){
     else{
         grade = 'F';
     }
-    printf()
-    
     return 0;
 }
